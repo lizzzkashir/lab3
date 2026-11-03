@@ -1,0 +1,1476 @@
+{
+  "books": [
+    {
+      "id": 101,
+      "title": "Мастер и Маргарита",
+      "author": "Булгаков М.А.",
+      "year": 1967,
+      "genre": "роман",
+      "price": 450
+    },
+    {
+      "id": 102,
+      "title": "Преступление и наказание",
+      "author": "Достоевский Ф.М.",
+      "year": 1866,
+      "genre": "роман",
+      "price": 500
+    },
+    {
+      "id": 103,
+      "title": "Идиот",
+      "author": "Достоевский Ф.М.",
+      "year": 1869,
+      "genre": "роман",
+      "price": 480
+    },
+    {
+      "id": 104,
+      "title": "Собачье сердце",
+      "author": "Булгаков М.А.",
+      "year": 1925,
+      "genre": "повесть",
+      "price": 350
+    },
+    {
+      "id": 105,
+      "title": "Война и мир",
+      "author": "Толстой Л.Н.",
+      "year": 1869,
+      "genre": "роман",
+      "price": 800
+    },
+    {
+      "id": 106,
+      "title": "Анна Каренина",
+      "author": "Толстой Л.Н.",
+      "year": 1877,
+      "genre": "роман",
+      "price": 600
+    },
+    {
+      "id": 107,
+      "title": "Мёртвые души",
+      "author": "Гоголь Н.В.",
+      "year": 1842,
+      "genre": "поэма",
+      "price": 420
+    },
+    {
+      "id": 108,
+      "title": "Ревизор",
+      "author": "Гоголь Н.В.",
+      "year": 1836,
+      "genre": "комедия",
+      "price": 300
+    },
+    {
+      "id": 109,
+      "title": "Евгений Онегин",
+      "author": "Пушкин А.С.",
+      "year": 1833,
+      "genre": "роман",
+      "price": 380
+    },
+    {
+      "id": 110,
+      "title": "Пиковая дама",
+      "author": "Пушкин А.С.",
+      "year": 1834,
+      "genre": "повесть",
+      "price": 280
+    },
+    {
+      "id": 111,
+      "title": "Дубровский",
+      "author": "Пушкин А.С.",
+      "year": 1841,
+      "genre": "роман",
+      "price": 320
+    },
+    {
+      "id": 112,
+      "title": "Три товарища",
+      "author": "Ремарк Э.М.",
+      "year": 1936,
+      "genre": "роман",
+      "price": 550
+    },
+    {
+      "id": 113,
+      "title": "На Западном фронте без перемен",
+      "author": "Ремарк Э.М.",
+      "year": 1929,
+      "genre": "роман",
+      "price": 520
+    },
+    {
+      "id": 114,
+      "title": "451 градус по Фаренгейту",
+      "author": "Брэдбери Р.",
+      "year": 1953,
+      "genre": "фантастика",
+      "price": 490
+    },
+    {
+      "id": 115,
+      "title": "Марсианские хроники",
+      "author": "Брэдбери Р.",
+      "year": 1950,
+      "genre": "фантастика",
+      "price": 460
+    },
+    {
+      "id": 116,
+      "title": "1984",
+      "author": "Оруэлл Дж.",
+      "year": 1949,
+      "genre": "антиутопия",
+      "price": 520
+    },
+    {
+      "id": 117,
+      "title": "Скотный двор",
+      "author": "Оруэлл Дж.",
+      "year": 1945,
+      "genre": "притча",
+      "price": 350
+    },
+    {
+      "id": 118,
+      "title": "Гарри Поттер и философский камень",
+      "author": "Роулинг Дж.К.",
+      "year": 1997,
+      "genre": "фэнтези",
+      "price": 600
+    },
+    {
+      "id": 119,
+      "title": "Гарри Поттер и Тайная комната",
+      "author": "Роулинг Дж.К.",
+      "year": 1998,
+      "genre": "фэнтези",
+      "price": 620
+    },
+    {
+      "id": 120,
+      "title": "Властелин колец",
+      "author": "Толкин Дж.Р.Р.",
+      "year": 1954,
+      "genre": "фэнтези",
+      "price": 1200
+    }
+  ],
+  "readers": [
+    {
+      "id": 201,
+      "name": "Иванов Иван",
+      "email": "ivanov@mail.ru",
+      "reg_date": "2023-01-15"
+    },
+    {
+      "id": 202,
+      "name": "Петрова Анна",
+      "email": "petrova@mail.ru",
+      "reg_date": "2023-02-20"
+    },
+    {
+      "id": 203,
+      "name": "Сидоров Сергей",
+      "email": "sidorov@mail.ru",
+      "reg_date": "2023-03-10"
+    },
+    {
+      "id": 204,
+      "name": "Кузнецова Елена",
+      "email": "kuznecova@mail.ru",
+      "reg_date": "2023-04-05"
+    },
+    {
+      "id": 205,
+      "name": "Смирнов Алексей",
+      "email": "smirnov@mail.ru",
+      "reg_date": "2023-05-12"
+    },
+    {
+      "id": 206,
+      "name": "Васильева Ольга",
+      "email": "vasilieva@mail.ru",
+      "reg_date": "2023-06-18"
+    },
+    {
+      "id": 207,
+      "name": "Попов Дмитрий",
+      "email": "popov@mail.ru",
+      "reg_date": "2023-07-22"
+    },
+    {
+      "id": 208,
+      "name": "Соколова Мария",
+      "email": "sokolova@mail.ru",
+      "reg_date": "2023-08-30"
+    }
+  ],
+  "loans": [
+    {
+      "book_id": 108,
+      "reader_id": 207,
+      "loan_date": "2025-05-15",
+      "return_date": "2025-05-24",
+      "status": "returned"
+    },
+    {
+      "book_id": 119,
+      "reader_id": 202,
+      "loan_date": "2025-08-25",
+      "return_date": "2025-09-12",
+      "status": "returned"
+    },
+    {
+      "book_id": 104,
+      "reader_id": 206,
+      "loan_date": "2025-10-29",
+      "return_date": "",
+      "status": "active"
+    },
+    {
+      "book_id": 119,
+      "reader_id": 201,
+      "loan_date": "2025-01-05",
+      "return_date": "2025-02-03",
+      "status": "returned"
+    },
+    {
+      "book_id": 112,
+      "reader_id": 206,
+      "loan_date": "2025-01-29",
+      "return_date": "2025-02-24",
+      "status": "returned"
+    },
+    {
+      "book_id": 104,
+      "reader_id": 202,
+      "loan_date": "2025-10-25",
+      "return_date": "2025-11-07",
+      "status": "returned"
+    },
+    {
+      "book_id": 117,
+      "reader_id": 201,
+      "loan_date": "2025-02-02",
+      "return_date": "2025-02-14",
+      "status": "returned"
+    },
+    {
+      "book_id": 119,
+      "reader_id": 207,
+      "loan_date": "2025-08-26",
+      "return_date": "2025-09-14",
+      "status": "returned"
+    },
+    {
+      "book_id": 104,
+      "reader_id": 203,
+      "loan_date": "2025-09-24",
+      "return_date": "2025-10-13",
+      "status": "returned"
+    },
+    {
+      "book_id": 107,
+      "reader_id": 202,
+      "loan_date": "2025-02-01",
+      "return_date": "2025-02-12",
+      "status": "returned"
+    },
+    {
+      "book_id": 114,
+      "reader_id": 208,
+      "loan_date": "2025-01-12",
+      "return_date": "2025-01-30",
+      "status": "returned"
+    },
+    {
+      "book_id": 120,
+      "reader_id": 206,
+      "loan_date": "2025-04-29",
+      "return_date": "2025-05-29",
+      "status": "returned"
+    },
+    {
+      "book_id": 115,
+      "reader_id": 206,
+      "loan_date": "2025-01-05",
+      "return_date": "2025-01-29",
+      "status": "returned"
+    },
+    {
+      "book_id": 115,
+      "reader_id": 201,
+      "loan_date": "2025-02-18",
+      "return_date": "",
+      "status": "active"
+    },
+    {
+      "book_id": 107,
+      "reader_id": 203,
+      "loan_date": "2025-04-11",
+      "return_date": "",
+      "status": "active"
+    },
+    {
+      "book_id": 119,
+      "reader_id": 208,
+      "loan_date": "2025-10-14",
+      "return_date": "2025-10-23",
+      "status": "returned"
+    },
+    {
+      "book_id": 112,
+      "reader_id": 208,
+      "loan_date": "2025-07-01",
+      "return_date": "",
+      "status": "active"
+    },
+    {
+      "book_id": 110,
+      "reader_id": 202,
+      "loan_date": "2025-03-11",
+      "return_date": "",
+      "status": "active"
+    },
+    {
+      "book_id": 111,
+      "reader_id": 201,
+      "loan_date": "2025-09-02",
+      "return_date": "2025-09-16",
+      "status": "returned"
+    },
+    {
+      "book_id": 103,
+      "reader_id": 207,
+      "loan_date": "2025-01-24",
+      "return_date": "2025-02-08",
+      "status": "returned"
+    },
+    {
+      "book_id": 104,
+      "reader_id": 207,
+      "loan_date": "2025-03-11",
+      "return_date": "2025-04-01",
+      "status": "returned"
+    },
+    {
+      "book_id": 113,
+      "reader_id": 207,
+      "loan_date": "2025-03-04",
+      "return_date": "2025-03-30",
+      "status": "returned"
+    },
+    {
+      "book_id": 110,
+      "reader_id": 207,
+      "loan_date": "2025-07-28",
+      "return_date": "2025-08-14",
+      "status": "returned"
+    },
+    {
+      "book_id": 105,
+      "reader_id": 205,
+      "loan_date": "2025-02-25",
+      "return_date": "2025-03-04",
+      "status": "returned"
+    },
+    {
+      "book_id": 108,
+      "reader_id": 202,
+      "loan_date": "2025-08-28",
+      "return_date": "2025-09-23",
+      "status": "returned"
+    },
+    {
+      "book_id": 114,
+      "reader_id": 201,
+      "loan_date": "2025-07-09",
+      "return_date": "",
+      "status": "active"
+    },
+    {
+      "book_id": 105,
+      "reader_id": 207,
+      "loan_date": "2025-02-01",
+      "return_date": "",
+      "status": "active"
+    },
+    {
+      "book_id": 117,
+      "reader_id": 201,
+      "loan_date": "2025-01-25",
+      "return_date": "2025-02-15",
+      "status": "returned"
+    },
+    {
+      "book_id": 108,
+      "reader_id": 204,
+      "loan_date": "2025-09-09",
+      "return_date": "2025-09-26",
+      "status": "returned"
+    },
+    {
+      "book_id": 109,
+      "reader_id": 206,
+      "loan_date": "2025-04-15",
+      "return_date": "2025-05-14",
+      "status": "returned"
+    },
+    {
+      "book_id": 102,
+      "reader_id": 206,
+      "loan_date": "2025-07-12",
+      "return_date": "2025-07-21",
+      "status": "returned"
+    },
+    {
+      "book_id": 104,
+      "reader_id": 205,
+      "loan_date": "2025-02-18",
+      "return_date": "2025-03-04",
+      "status": "returned"
+    },
+    {
+      "book_id": 120,
+      "reader_id": 203,
+      "loan_date": "2025-09-11",
+      "return_date": "2025-10-01",
+      "status": "returned"
+    },
+    {
+      "book_id": 116,
+      "reader_id": 203,
+      "loan_date": "2025-10-02",
+      "return_date": "2025-10-19",
+      "status": "returned"
+    },
+    {
+      "book_id": 118,
+      "reader_id": 205,
+      "loan_date": "2025-08-28",
+      "return_date": "",
+      "status": "active"
+    },
+    {
+      "book_id": 107,
+      "reader_id": 202,
+      "loan_date": "2025-03-30",
+      "return_date": "2025-04-24",
+      "status": "returned"
+    },
+    {
+      "book_id": 120,
+      "reader_id": 208,
+      "loan_date": "2025-10-12",
+      "return_date": "2025-11-07",
+      "status": "returned"
+    },
+    {
+      "book_id": 108,
+      "reader_id": 204,
+      "loan_date": "2025-09-08",
+      "return_date": "",
+      "status": "active"
+    },
+    {
+      "book_id": 111,
+      "reader_id": 208,
+      "loan_date": "2025-07-24",
+      "return_date": "",
+      "status": "active"
+    },
+    {
+      "book_id": 105,
+      "reader_id": 208,
+      "loan_date": "2025-10-02",
+      "return_date": "2025-10-14",
+      "status": "returned"
+    },
+    {
+      "book_id": 101,
+      "reader_id": 207,
+      "loan_date": "2025-09-26",
+      "return_date": "2025-10-21",
+      "status": "returned"
+    },
+    {
+      "book_id": 110,
+      "reader_id": 207,
+      "loan_date": "2025-01-12",
+      "return_date": "2025-02-03",
+      "status": "returned"
+    },
+    {
+      "book_id": 103,
+      "reader_id": 201,
+      "loan_date": "2025-09-26",
+      "return_date": "2025-10-23",
+      "status": "returned"
+    },
+    {
+      "book_id": 118,
+      "reader_id": 202,
+      "loan_date": "2025-10-09",
+      "return_date": "",
+      "status": "active"
+    },
+    {
+      "book_id": 119,
+      "reader_id": 202,
+      "loan_date": "2025-02-12",
+      "return_date": "2025-02-19",
+      "status": "returned"
+    },
+    {
+      "book_id": 114,
+      "reader_id": 205,
+      "loan_date": "2025-05-30",
+      "return_date": "2025-06-09",
+      "status": "returned"
+    },
+    {
+      "book_id": 118,
+      "reader_id": 205,
+      "loan_date": "2025-02-13",
+      "return_date": "2025-03-06",
+      "status": "returned"
+    },
+    {
+      "book_id": 101,
+      "reader_id": 206,
+      "loan_date": "2025-02-05",
+      "return_date": "2025-02-19",
+      "status": "returned"
+    },
+    {
+      "book_id": 105,
+      "reader_id": 206,
+      "loan_date": "2025-06-22",
+      "return_date": "2025-07-16",
+      "status": "returned"
+    },
+    {
+      "book_id": 109,
+      "reader_id": 206,
+      "loan_date": "2025-05-06",
+      "return_date": "",
+      "status": "active"
+    },
+    {
+      "book_id": 104,
+      "reader_id": 205,
+      "loan_date": "2025-04-30",
+      "return_date": "2025-05-27",
+      "status": "returned"
+    },
+    {
+      "book_id": 104,
+      "reader_id": 202,
+      "loan_date": "2025-07-10",
+      "return_date": "",
+      "status": "active"
+    },
+    {
+      "book_id": 115,
+      "reader_id": 205,
+      "loan_date": "2025-03-23",
+      "return_date": "",
+      "status": "active"
+    },
+    {
+      "book_id": 120,
+      "reader_id": 207,
+      "loan_date": "2025-06-14",
+      "return_date": "2025-07-06",
+      "status": "returned"
+    },
+    {
+      "book_id": 108,
+      "reader_id": 206,
+      "loan_date": "2025-02-25",
+      "return_date": "",
+      "status": "active"
+    },
+    {
+      "book_id": 118,
+      "reader_id": 205,
+      "loan_date": "2025-07-29",
+      "return_date": "2025-08-21",
+      "status": "returned"
+    },
+    {
+      "book_id": 101,
+      "reader_id": 207,
+      "loan_date": "2025-04-10",
+      "return_date": "2025-04-30",
+      "status": "returned"
+    },
+    {
+      "book_id": 106,
+      "reader_id": 204,
+      "loan_date": "2025-08-20",
+      "return_date": "2025-09-17",
+      "status": "returned"
+    },
+    {
+      "book_id": 119,
+      "reader_id": 206,
+      "loan_date": "2025-10-10",
+      "return_date": "2025-11-03",
+      "status": "returned"
+    },
+    {
+      "book_id": 107,
+      "reader_id": 206,
+      "loan_date": "2025-01-07",
+      "return_date": "",
+      "status": "active"
+    },
+    {
+      "book_id": 103,
+      "reader_id": 204,
+      "loan_date": "2025-01-09",
+      "return_date": "2025-01-28",
+      "status": "returned"
+    },
+    {
+      "book_id": 107,
+      "reader_id": 205,
+      "loan_date": "2025-06-25",
+      "return_date": "2025-07-24",
+      "status": "returned"
+    },
+    {
+      "book_id": 114,
+      "reader_id": 205,
+      "loan_date": "2025-10-22",
+      "return_date": "",
+      "status": "active"
+    },
+    {
+      "book_id": 118,
+      "reader_id": 203,
+      "loan_date": "2025-07-11",
+      "return_date": "2025-08-08",
+      "status": "returned"
+    },
+    {
+      "book_id": 117,
+      "reader_id": 207,
+      "loan_date": "2025-08-20",
+      "return_date": "2025-09-01",
+      "status": "returned"
+    },
+    {
+      "book_id": 119,
+      "reader_id": 206,
+      "loan_date": "2025-09-03",
+      "return_date": "2025-09-18",
+      "status": "returned"
+    },
+    {
+      "book_id": 101,
+      "reader_id": 208,
+      "loan_date": "2025-06-27",
+      "return_date": "2025-07-17",
+      "status": "returned"
+    },
+    {
+      "book_id": 112,
+      "reader_id": 203,
+      "loan_date": "2025-02-05",
+      "return_date": "2025-03-01",
+      "status": "returned"
+    },
+    {
+      "book_id": 115,
+      "reader_id": 202,
+      "loan_date": "2025-10-02",
+      "return_date": "2025-10-15",
+      "status": "returned"
+    },
+    {
+      "book_id": 106,
+      "reader_id": 207,
+      "loan_date": "2025-02-13",
+      "return_date": "2025-03-07",
+      "status": "returned"
+    },
+    {
+      "book_id": 104,
+      "reader_id": 207,
+      "loan_date": "2025-04-10",
+      "return_date": "2025-05-05",
+      "status": "returned"
+    },
+    {
+      "book_id": 113,
+      "reader_id": 201,
+      "loan_date": "2025-10-01",
+      "return_date": "2025-10-10",
+      "status": "returned"
+    },
+    {
+      "book_id": 109,
+      "reader_id": 204,
+      "loan_date": "2025-04-10",
+      "return_date": "2025-04-23",
+      "status": "returned"
+    },
+    {
+      "book_id": 106,
+      "reader_id": 202,
+      "loan_date": "2025-06-22",
+      "return_date": "2025-07-21",
+      "status": "returned"
+    },
+    {
+      "book_id": 110,
+      "reader_id": 204,
+      "loan_date": "2025-10-17",
+      "return_date": "2025-11-12",
+      "status": "returned"
+    },
+    {
+      "book_id": 109,
+      "reader_id": 201,
+      "loan_date": "2025-01-17",
+      "return_date": "2025-01-27",
+      "status": "returned"
+    },
+    {
+      "book_id": 113,
+      "reader_id": 203,
+      "loan_date": "2025-03-21",
+      "return_date": "2025-03-28",
+      "status": "returned"
+    },
+    {
+      "book_id": 110,
+      "reader_id": 201,
+      "loan_date": "2025-04-28",
+      "return_date": "2025-05-23",
+      "status": "returned"
+    },
+    {
+      "book_id": 106,
+      "reader_id": 201,
+      "loan_date": "2025-10-24",
+      "return_date": "2025-11-02",
+      "status": "returned"
+    },
+    {
+      "book_id": 105,
+      "reader_id": 208,
+      "loan_date": "2025-09-08",
+      "return_date": "2025-09-26",
+      "status": "returned"
+    },
+    {
+      "book_id": 117,
+      "reader_id": 205,
+      "loan_date": "2025-07-16",
+      "return_date": "2025-08-10",
+      "status": "returned"
+    },
+    {
+      "book_id": 116,
+      "reader_id": 203,
+      "loan_date": "2025-08-25",
+      "return_date": "2025-09-24",
+      "status": "returned"
+    },
+    {
+      "book_id": 115,
+      "reader_id": 201,
+      "loan_date": "2025-05-27",
+      "return_date": "2025-06-03",
+      "status": "returned"
+    },
+    {
+      "book_id": 103,
+      "reader_id": 208,
+      "loan_date": "2025-03-11",
+      "return_date": "2025-03-31",
+      "status": "returned"
+    },
+    {
+      "book_id": 104,
+      "reader_id": 208,
+      "loan_date": "2025-09-22",
+      "return_date": "2025-10-13",
+      "status": "returned"
+    },
+    {
+      "book_id": 104,
+      "reader_id": 205,
+      "loan_date": "2025-04-24",
+      "return_date": "2025-05-17",
+      "status": "returned"
+    },
+    {
+      "book_id": 103,
+      "reader_id": 204,
+      "loan_date": "2025-06-21",
+      "return_date": "2025-07-06",
+      "status": "returned"
+    },
+    {
+      "book_id": 108,
+      "reader_id": 204,
+      "loan_date": "2025-05-04",
+      "return_date": "2025-05-20",
+      "status": "returned"
+    },
+    {
+      "book_id": 118,
+      "reader_id": 205,
+      "loan_date": "2025-06-29",
+      "return_date": "2025-07-25",
+      "status": "returned"
+    },
+    {
+      "book_id": 108,
+      "reader_id": 201,
+      "loan_date": "2025-02-12",
+      "return_date": "2025-03-01",
+      "status": "returned"
+    },
+    {
+      "book_id": 111,
+      "reader_id": 202,
+      "loan_date": "2025-03-22",
+      "return_date": "2025-04-09",
+      "status": "returned"
+    },
+    {
+      "book_id": 108,
+      "reader_id": 201,
+      "loan_date": "2025-03-10",
+      "return_date": "2025-03-19",
+      "status": "returned"
+    },
+    {
+      "book_id": 112,
+      "reader_id": 204,
+      "loan_date": "2025-06-17",
+      "return_date": "2025-07-13",
+      "status": "returned"
+    },
+    {
+      "book_id": 113,
+      "reader_id": 207,
+      "loan_date": "2025-04-30",
+      "return_date": "2025-05-24",
+      "status": "returned"
+    },
+    {
+      "book_id": 104,
+      "reader_id": 208,
+      "loan_date": "2025-01-05",
+      "return_date": "2025-01-12",
+      "status": "returned"
+    },
+    {
+      "book_id": 118,
+      "reader_id": 206,
+      "loan_date": "2025-01-01",
+      "return_date": "2025-01-17",
+      "status": "returned"
+    },
+    {
+      "book_id": 106,
+      "reader_id": 203,
+      "loan_date": "2025-10-04",
+      "return_date": "2025-10-16",
+      "status": "returned"
+    },
+    {
+      "book_id": 109,
+      "reader_id": 203,
+      "loan_date": "2025-01-02",
+      "return_date": "2025-01-19",
+      "status": "returned"
+    },
+    {
+      "book_id": 106,
+      "reader_id": 204,
+      "loan_date": "2025-07-10",
+      "return_date": "2025-07-22",
+      "status": "returned"
+    },
+    {
+      "book_id": 114,
+      "reader_id": 207,
+      "loan_date": "2025-06-04",
+      "return_date": "2025-06-14",
+      "status": "returned"
+    },
+    {
+      "book_id": 108,
+      "reader_id": 203,
+      "loan_date": "2025-06-13",
+      "return_date": "2025-07-01",
+      "status": "returned"
+    },
+    {
+      "book_id": 117,
+      "reader_id": 207,
+      "loan_date": "2025-07-23",
+      "return_date": "2025-08-05",
+      "status": "returned"
+    },
+    {
+      "book_id": 104,
+      "reader_id": 207,
+      "loan_date": "2025-01-06",
+      "return_date": "2025-01-19",
+      "status": "returned"
+    },
+    {
+      "book_id": 107,
+      "reader_id": 205,
+      "loan_date": "2025-05-11",
+      "return_date": "2025-05-26",
+      "status": "returned"
+    },
+    {
+      "book_id": 120,
+      "reader_id": 206,
+      "loan_date": "2025-06-03",
+      "return_date": "",
+      "status": "active"
+    },
+    {
+      "book_id": 102,
+      "reader_id": 203,
+      "loan_date": "2025-05-19",
+      "return_date": "2025-06-11",
+      "status": "returned"
+    },
+    {
+      "book_id": 111,
+      "reader_id": 204,
+      "loan_date": "2025-05-07",
+      "return_date": "2025-05-14",
+      "status": "returned"
+    },
+    {
+      "book_id": 101,
+      "reader_id": 204,
+      "loan_date": "2025-03-02",
+      "return_date": "2025-03-22",
+      "status": "returned"
+    },
+    {
+      "book_id": 107,
+      "reader_id": 202,
+      "loan_date": "2025-03-28",
+      "return_date": "2025-04-15",
+      "status": "returned"
+    },
+    {
+      "book_id": 101,
+      "reader_id": 208,
+      "loan_date": "2025-04-04",
+      "return_date": "2025-04-29",
+      "status": "returned"
+    },
+    {
+      "book_id": 103,
+      "reader_id": 207,
+      "loan_date": "2025-08-20",
+      "return_date": "2025-09-16",
+      "status": "returned"
+    },
+    {
+      "book_id": 111,
+      "reader_id": 207,
+      "loan_date": "2025-04-15",
+      "return_date": "2025-05-13",
+      "status": "returned"
+    },
+    {
+      "book_id": 119,
+      "reader_id": 207,
+      "loan_date": "2025-10-03",
+      "return_date": "2025-10-17",
+      "status": "returned"
+    },
+    {
+      "book_id": 106,
+      "reader_id": 207,
+      "loan_date": "2025-07-25",
+      "return_date": "2025-08-05",
+      "status": "returned"
+    },
+    {
+      "book_id": 111,
+      "reader_id": 207,
+      "loan_date": "2025-07-16",
+      "return_date": "2025-08-09",
+      "status": "returned"
+    },
+    {
+      "book_id": 114,
+      "reader_id": 207,
+      "loan_date": "2025-07-22",
+      "return_date": "2025-08-04",
+      "status": "returned"
+    },
+    {
+      "book_id": 114,
+      "reader_id": 208,
+      "loan_date": "2025-07-16",
+      "return_date": "2025-08-14",
+      "status": "returned"
+    },
+    {
+      "book_id": 106,
+      "reader_id": 206,
+      "loan_date": "2025-08-21",
+      "return_date": "2025-09-01",
+      "status": "returned"
+    },
+    {
+      "book_id": 114,
+      "reader_id": 204,
+      "loan_date": "2025-10-22",
+      "return_date": "2025-11-19",
+      "status": "returned"
+    },
+    {
+      "book_id": 101,
+      "reader_id": 201,
+      "loan_date": "2025-08-11",
+      "return_date": "",
+      "status": "active"
+    },
+    {
+      "book_id": 108,
+      "reader_id": 203,
+      "loan_date": "2025-01-10",
+      "return_date": "2025-02-08",
+      "status": "returned"
+    },
+    {
+      "book_id": 107,
+      "reader_id": 202,
+      "loan_date": "2025-02-06",
+      "return_date": "2025-03-06",
+      "status": "returned"
+    },
+    {
+      "book_id": 118,
+      "reader_id": 202,
+      "loan_date": "2025-05-06",
+      "return_date": "2025-05-15",
+      "status": "returned"
+    },
+    {
+      "book_id": 105,
+      "reader_id": 205,
+      "loan_date": "2025-03-03",
+      "return_date": "2025-03-10",
+      "status": "returned"
+    },
+    {
+      "book_id": 120,
+      "reader_id": 207,
+      "loan_date": "2025-05-02",
+      "return_date": "2025-05-21",
+      "status": "returned"
+    },
+    {
+      "book_id": 120,
+      "reader_id": 206,
+      "loan_date": "2025-09-08",
+      "return_date": "2025-09-22",
+      "status": "returned"
+    },
+    {
+      "book_id": 112,
+      "reader_id": 201,
+      "loan_date": "2025-01-01",
+      "return_date": "2025-01-20",
+      "status": "returned"
+    },
+    {
+      "book_id": 115,
+      "reader_id": 205,
+      "loan_date": "2025-07-30",
+      "return_date": "",
+      "status": "active"
+    },
+    {
+      "book_id": 104,
+      "reader_id": 203,
+      "loan_date": "2025-09-30",
+      "return_date": "2025-10-15",
+      "status": "returned"
+    },
+    {
+      "book_id": 108,
+      "reader_id": 207,
+      "loan_date": "2025-03-20",
+      "return_date": "2025-03-31",
+      "status": "returned"
+    },
+    {
+      "book_id": 111,
+      "reader_id": 201,
+      "loan_date": "2025-10-28",
+      "return_date": "2025-11-21",
+      "status": "returned"
+    },
+    {
+      "book_id": 104,
+      "reader_id": 206,
+      "loan_date": "2025-04-06",
+      "return_date": "",
+      "status": "active"
+    },
+    {
+      "book_id": 101,
+      "reader_id": 207,
+      "loan_date": "2025-08-23",
+      "return_date": "2025-09-11",
+      "status": "returned"
+    },
+    {
+      "book_id": 105,
+      "reader_id": 201,
+      "loan_date": "2025-02-14",
+      "return_date": "2025-03-06",
+      "status": "returned"
+    },
+    {
+      "book_id": 101,
+      "reader_id": 208,
+      "loan_date": "2025-04-30",
+      "return_date": "",
+      "status": "active"
+    },
+    {
+      "book_id": 120,
+      "reader_id": 203,
+      "loan_date": "2025-10-03",
+      "return_date": "2025-10-31",
+      "status": "returned"
+    },
+    {
+      "book_id": 114,
+      "reader_id": 203,
+      "loan_date": "2025-02-05",
+      "return_date": "",
+      "status": "active"
+    },
+    {
+      "book_id": 105,
+      "reader_id": 202,
+      "loan_date": "2025-01-17",
+      "return_date": "2025-02-14",
+      "status": "returned"
+    },
+    {
+      "book_id": 102,
+      "reader_id": 201,
+      "loan_date": "2025-02-06",
+      "return_date": "2025-02-28",
+      "status": "returned"
+    },
+    {
+      "book_id": 117,
+      "reader_id": 204,
+      "loan_date": "2025-06-21",
+      "return_date": "2025-07-07",
+      "status": "returned"
+    },
+    {
+      "book_id": 103,
+      "reader_id": 207,
+      "loan_date": "2025-07-14",
+      "return_date": "2025-07-29",
+      "status": "returned"
+    },
+    {
+      "book_id": 105,
+      "reader_id": 202,
+      "loan_date": "2025-08-30",
+      "return_date": "2025-09-12",
+      "status": "returned"
+    },
+    {
+      "book_id": 109,
+      "reader_id": 207,
+      "loan_date": "2025-08-30",
+      "return_date": "2025-09-14",
+      "status": "returned"
+    },
+    {
+      "book_id": 103,
+      "reader_id": 204,
+      "loan_date": "2025-01-12",
+      "return_date": "2025-02-01",
+      "status": "returned"
+    },
+    {
+      "book_id": 113,
+      "reader_id": 208,
+      "loan_date": "2025-10-14",
+      "return_date": "2025-11-13",
+      "status": "returned"
+    },
+    {
+      "book_id": 113,
+      "reader_id": 204,
+      "loan_date": "2025-03-13",
+      "return_date": "",
+      "status": "active"
+    },
+    {
+      "book_id": 111,
+      "reader_id": 202,
+      "loan_date": "2025-08-18",
+      "return_date": "2025-09-06",
+      "status": "returned"
+    },
+    {
+      "book_id": 117,
+      "reader_id": 205,
+      "loan_date": "2025-01-05",
+      "return_date": "",
+      "status": "active"
+    },
+    {
+      "book_id": 105,
+      "reader_id": 207,
+      "loan_date": "2025-04-24",
+      "return_date": "2025-05-24",
+      "status": "returned"
+    },
+    {
+      "book_id": 103,
+      "reader_id": 204,
+      "loan_date": "2025-01-19",
+      "return_date": "2025-02-07",
+      "status": "returned"
+    },
+    {
+      "book_id": 104,
+      "reader_id": 207,
+      "loan_date": "2025-05-26",
+      "return_date": "",
+      "status": "active"
+    },
+    {
+      "book_id": 116,
+      "reader_id": 202,
+      "loan_date": "2025-05-26",
+      "return_date": "",
+      "status": "active"
+    },
+    {
+      "book_id": 113,
+      "reader_id": 206,
+      "loan_date": "2025-07-01",
+      "return_date": "2025-07-19",
+      "status": "returned"
+    },
+    {
+      "book_id": 107,
+      "reader_id": 201,
+      "loan_date": "2025-08-28",
+      "return_date": "2025-09-14",
+      "status": "returned"
+    },
+    {
+      "book_id": 117,
+      "reader_id": 205,
+      "loan_date": "2025-05-14",
+      "return_date": "2025-06-10",
+      "status": "returned"
+    },
+    {
+      "book_id": 114,
+      "reader_id": 202,
+      "loan_date": "2025-09-24",
+      "return_date": "",
+      "status": "active"
+    },
+    {
+      "book_id": 112,
+      "reader_id": 204,
+      "loan_date": "2025-04-12",
+      "return_date": "2025-05-01",
+      "status": "returned"
+    },
+    {
+      "book_id": 104,
+      "reader_id": 201,
+      "loan_date": "2025-05-26",
+      "return_date": "2025-06-07",
+      "status": "returned"
+    },
+    {
+      "book_id": 111,
+      "reader_id": 205,
+      "loan_date": "2025-06-26",
+      "return_date": "2025-07-22",
+      "status": "returned"
+    },
+    {
+      "book_id": 112,
+      "reader_id": 205,
+      "loan_date": "2025-04-06",
+      "return_date": "2025-04-27",
+      "status": "returned"
+    },
+    {
+      "book_id": 120,
+      "reader_id": 203,
+      "loan_date": "2025-06-07",
+      "return_date": "",
+      "status": "active"
+    },
+    {
+      "book_id": 107,
+      "reader_id": 201,
+      "loan_date": "2025-09-01",
+      "return_date": "2025-09-21",
+      "status": "returned"
+    },
+    {
+      "book_id": 111,
+      "reader_id": 204,
+      "loan_date": "2025-08-06",
+      "return_date": "2025-08-21",
+      "status": "returned"
+    },
+    {
+      "book_id": 111,
+      "reader_id": 204,
+      "loan_date": "2025-07-27",
+      "return_date": "",
+      "status": "active"
+    },
+    {
+      "book_id": 111,
+      "reader_id": 204,
+      "loan_date": "2025-04-10",
+      "return_date": "2025-04-25",
+      "status": "returned"
+    },
+    {
+      "book_id": 119,
+      "reader_id": 201,
+      "loan_date": "2025-03-09",
+      "return_date": "",
+      "status": "active"
+    },
+    {
+      "book_id": 113,
+      "reader_id": 203,
+      "loan_date": "2025-05-10",
+      "return_date": "2025-06-08",
+      "status": "returned"
+    },
+    {
+      "book_id": 101,
+      "reader_id": 201,
+      "loan_date": "2025-06-11",
+      "return_date": "2025-07-01",
+      "status": "returned"
+    },
+    {
+      "book_id": 116,
+      "reader_id": 202,
+      "loan_date": "2025-01-04",
+      "return_date": "2025-01-22",
+      "status": "returned"
+    },
+    {
+      "book_id": 118,
+      "reader_id": 205,
+      "loan_date": "2025-06-23",
+      "return_date": "2025-07-20",
+      "status": "returned"
+    },
+    {
+      "book_id": 116,
+      "reader_id": 207,
+      "loan_date": "2025-05-14",
+      "return_date": "2025-06-08",
+      "status": "returned"
+    },
+    {
+      "book_id": 114,
+      "reader_id": 205,
+      "loan_date": "2025-05-27",
+      "return_date": "2025-06-24",
+      "status": "returned"
+    },
+    {
+      "book_id": 102,
+      "reader_id": 204,
+      "loan_date": "2025-09-28",
+      "return_date": "2025-10-19",
+      "status": "returned"
+    },
+    {
+      "book_id": 109,
+      "reader_id": 203,
+      "loan_date": "2025-06-29",
+      "return_date": "2025-07-27",
+      "status": "returned"
+    },
+    {
+      "book_id": 101,
+      "reader_id": 203,
+      "loan_date": "2025-05-25",
+      "return_date": "",
+      "status": "active"
+    },
+    {
+      "book_id": 120,
+      "reader_id": 208,
+      "loan_date": "2025-09-16",
+      "return_date": "2025-10-10",
+      "status": "returned"
+    },
+    {
+      "book_id": 112,
+      "reader_id": 202,
+      "loan_date": "2025-04-05",
+      "return_date": "",
+      "status": "active"
+    },
+    {
+      "book_id": 115,
+      "reader_id": 203,
+      "loan_date": "2025-02-01",
+      "return_date": "",
+      "status": "active"
+    },
+    {
+      "book_id": 114,
+      "reader_id": 203,
+      "loan_date": "2025-10-15",
+      "return_date": "2025-10-25",
+      "status": "returned"
+    },
+    {
+      "book_id": 118,
+      "reader_id": 204,
+      "loan_date": "2025-01-17",
+      "return_date": "2025-02-09",
+      "status": "returned"
+    }
+  ]
+}
